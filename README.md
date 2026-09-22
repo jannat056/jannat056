@@ -66,11 +66,10 @@
 * **Links:** [Live Demo](https://jannat056.github.io/TO-DO-List/) | [GitHub Repository](https://github.com/jannat056/TO-DO-List)
 
 ---
-
 ### GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jannat056&show_icons=true&theme=radical&hide_border=true" alt="Shohefa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jannat056&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -91,4 +90,5 @@
 
 * **Email:** jannatjr648@gmail.com
 * **Facebook:** [Jannat Jemi](https://www.facebook.com/Jannat9801)
-* **WhatsApp:** +8801516537025
+* **WhatsApp:** [+8801516537025](https://wa.me/8801516537025)
+* **Telegram:** [@jannat_744](https://t.me/jannat_744)

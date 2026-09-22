@@ -1,4 +1,7 @@
-
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/jannat056/jannat056/issues/2#issue-5544130699" alt="Profile Banner" width="100%" />
+</p>
 # Hi there, I'm Shohefa Jannat Jemi 👋
 
 <h3 align="center">Aspiring Web Developer & Frontend Enthusiast</h3>

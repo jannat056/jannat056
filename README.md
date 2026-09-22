@@ -80,7 +80,8 @@
 
 ### Connect With Me
 
-* **GitHub:** [jannat056](https://github.com/jannat056)
+*  **Portfolio:** my-portfolio-jannat056.vercel.app
+*  **GitHub:** [jannat056](https://github.com/jannat056)
 * **Email:** jannatjr648@gmail.com
 * **Facebook:** [Jannat Jemi](https://www.facebook.com/Jannat9801)
 * **Telegram:** [@jannat_744](https://t.me/jannat_744)

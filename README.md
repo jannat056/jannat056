@@ -69,7 +69,7 @@
 ### GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jannat056&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github.com/jannat056/jannat056/blob/main/github-stats.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -83,7 +83,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jannat056&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
-
 ---
 
 ### Connect With Me

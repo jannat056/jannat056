@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ffae7122-83b3-4f99-a864-4e427d14d79d" alt="Profile Banner" width="100%" />
-</p>
-
 
 # Hi there, I'm Shohefa Jannat Jemi 👋
 

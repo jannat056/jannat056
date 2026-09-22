@@ -64,13 +64,6 @@
 * **Overview:** A clean, interactive, and user-friendly task management app designed to add, complete, and track daily tasks with dynamic UI updates.
 * **Tech Stack:** HTML5 • CSS3 • JavaScript • Git • GitHub
 * **Links:** [Live Demo](https://jannat056.github.io/TO-DO-List/) | [GitHub Repository](https://github.com/jannat056/TO-DO-List)
----
-
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jannat056&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
 
 ---
 ### Activity & Metrics

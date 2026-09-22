@@ -1,4 +1,4 @@
-# Hi there, I'm Shohefa Jannat Jemi 
+# Hi there, I'm Shohefa Jannat Jemi 👋
 
 <h3 align="center">Aspiring Web Developer & Frontend Enthusiast</h3>
 
@@ -66,15 +66,8 @@
 * **Links:** [Live Demo](https://jannat056.github.io/TO-DO-List/) | [GitHub Repository](https://github.com/jannat056/TO-DO-List)
 
 ---
-### GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github.com/jannat056/jannat056/blob/main/github-stats.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannat056&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jannat056&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -83,11 +76,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jannat056&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
+
 ---
 
 ### Connect With Me
 
 * **Email:** jannatjr648@gmail.com
 * **Facebook:** [Jannat Jemi](https://www.facebook.com/Jannat9801)
-* **WhatsApp:** [+8801516537025](https://wa.me/8801516537025)
 * **Telegram:** [@jannat_744](https://t.me/jannat_744)
+* **WhatsApp:** [+8801516537025](https://wa.me/8801516537025)
